@@ -18,6 +18,7 @@ public class Prueba {
         //Holaaaaaaaaaaaa grupo 2 
         // holla
         //Algo
+        System.out.println("Putitos");
     }
     
 }
