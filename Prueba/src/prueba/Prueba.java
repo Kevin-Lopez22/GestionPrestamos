@@ -17,8 +17,11 @@ public class Prueba {
         // TODO code application logic here
         //Holaaaaaaaaaaaa grupo 2 
         // holla
-        //Algo
-        System.out.println("Putitos");
+        //hola
+        
+        
+        
+        System.out.println("putitos");
     }
     
 }
