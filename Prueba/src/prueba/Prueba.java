@@ -18,10 +18,8 @@ public class Prueba {
         //Holaaaaaaaaaaaa grupo 2 
         // holla
         //hola
-        
-        
-        
-        System.out.println("putitos");
+
+        //hola 3
     }
     
 }
